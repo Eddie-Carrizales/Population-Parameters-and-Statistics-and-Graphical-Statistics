@@ -56,6 +56,7 @@ Show: <br />
 •	The upper outlier limit from the interquartile range <br />
 •	The count of the number of outliers in the 100000 Unit Sample. <br />
 
+# Table Showing All Results
 ![Table1](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics/blob/main/Images/image1.png)
 
 Conclusion (b - c):

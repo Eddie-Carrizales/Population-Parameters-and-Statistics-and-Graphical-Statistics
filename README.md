@@ -56,6 +56,8 @@ Show: <br />
 •	The upper outlier limit from the interquartile range <br />
 •	The count of the number of outliers in the 100000 Unit Sample. <br />
 
+![Table1](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics/blob/main/Images/image1.png)
+
 Conclusion (b - c):
 As we can see, the statistics start to converge as the size of the sample increases.
 
@@ -63,3 +65,9 @@ e) Three Scatter Plots <br />
 •	Angles vs. X-Positions <br />
 •	Angles vs. Y-Positions <br />
 •	X-Positions vs. Y-Positions <br />
+
+![Table2](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics/blob/main/Images/image2.png)
+
+![Plot1](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics/blob/main/Images/plot1.png)
+![Plot2](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics/blob/main/Images/plot2.png)
+![Plot3](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics/blob/main/Images/plot3.png)

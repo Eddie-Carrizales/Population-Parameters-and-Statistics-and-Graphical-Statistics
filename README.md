@@ -1,4 +1,4 @@
-# Population-Parameters-and-Statistics-and-Graphical-Statistics
+# Population Parameters and Statistics, and Graphical Statistics
 
 a)	Find the following parametric information about the population. The degree of freedom for this population is 0. That is, variance is calculated by dividing by the length N of the dataset.
 

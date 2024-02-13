@@ -59,7 +59,7 @@ Show: <br />
 Conclusion (b - c):
 As we can see, the statistics start to converge as the size of the sample increases.
 
-e) Three Scatter Plots
+e) Three Scatter Plots <br />
 •	Angles vs. X-Positions <br />
 •	Angles vs. Y-Positions <br />
 •	X-Positions vs. Y-Positions <br />

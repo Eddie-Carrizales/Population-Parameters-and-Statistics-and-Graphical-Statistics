@@ -12,7 +12,7 @@ from tabulate import tabulate
 # Language version: 3.9
 
 # ---------------------- step 1: Load Chapter8.txt (and set up random number generator)----------------------
-path = "C:/Users/Eddie Carrizales/OneDrive/Desktop/Statistics 6313/Stats Project2/data.txt"  # add your path here or put .txt in the same place as this .py
+path = "C:/Users/Eddie Carrizales/OneDrive/Desktop/data.txt"  # add your path here or put .txt in the same place as this .py
 
 population_data = np.loadtxt(path, delimiter=',')
 # print(population_data)
